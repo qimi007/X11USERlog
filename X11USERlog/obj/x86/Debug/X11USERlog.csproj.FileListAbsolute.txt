@@ -1,0 +1,7 @@
+E:\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\bin\Debug\X11USERlog.exe
+E:\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\bin\Debug\X11USERlog.pdb
+E:\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\obj\x86\Debug\X11USERlog.Form1.resources
+E:\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\obj\x86\Debug\X11USERlog.Properties.Resources.resources
+E:\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\obj\x86\Debug\X11USERlog.csproj.GenerateResource.Cache
+E:\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\obj\x86\Debug\X11USERlog.exe
+E:\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\obj\x86\Debug\X11USERlog.pdb
