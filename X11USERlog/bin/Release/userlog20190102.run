@@ -1,0 +1,30 @@
+['aaa49_20181228145152.log', 'aaa50_20181228160425.log', 'aaa51_20181228163210.log', 'aaa52_20181228182211.log', 'aaa53_20181228182746.log', 'aaa54_20181229173924.log', 'aaa55_20181229180307.log', 'aaa56_20181230020325.log', 'aaa57_20181230144633.log', 'aaa58_20181230162705.log', 'aaa59_20181231155339.log', 'aaa60_20190101043600.log', 'aaa61_20190101163444.log', 'sendwxmsg_20190102.wx']
+['aaa49_20181228145152.log', 'aaa50_20181228160425.log', 'aaa51_20181228163210.log', 'aaa52_20181228182211.log', 'aaa53_20181228182746.log', 'aaa54_20181229173924.log', 'aaa55_20181229180307.log', 'aaa56_20181230020325.log', 'aaa57_20181230144633.log', 'aaa58_20181230162705.log', 'aaa59_20181231155339.log', 'aaa60_20190101043600.log', 'aaa61_20190101163444.log', 'sendwxmsg_20190102.wx']
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI1699522\pymysql\cursors.py:170: Warning: (1050, "Table 'logtable' already exists")
+C:\Users\ADMINI~1\AppData\Local\Temp\_MEI1699522\pymysql\cursors.py:170: Warning: (1050, "Table 'useraction' already exists")
+select count(*) from logtable where logname = 'aaa49_20181228145152.log'
+the file : aaa49_20181228145152.log is exist 
+select count(*) from logtable where logname = 'aaa50_20181228160425.log'
+the file : aaa50_20181228160425.log is exist 
+select count(*) from logtable where logname = 'aaa51_20181228163210.log'
+the file : aaa51_20181228163210.log is exist 
+select count(*) from logtable where logname = 'aaa52_20181228182211.log'
+the file : aaa52_20181228182211.log is exist 
+select count(*) from logtable where logname = 'aaa53_20181228182746.log'
+the file : aaa53_20181228182746.log is exist 
+select count(*) from logtable where logname = 'aaa54_20181229173924.log'
+the file : aaa54_20181229173924.log is exist 
+select count(*) from logtable where logname = 'aaa55_20181229180307.log'
+the file : aaa55_20181229180307.log is exist 
+select count(*) from logtable where logname = 'aaa56_20181230020325.log'
+the file : aaa56_20181230020325.log is exist 
+select count(*) from logtable where logname = 'aaa57_20181230144633.log'
+the file : aaa57_20181230144633.log is exist 
+select count(*) from logtable where logname = 'aaa58_20181230162705.log'
+the file : aaa58_20181230162705.log is exist 
+select count(*) from logtable where logname = 'aaa59_20181231155339.log'
+the file : aaa59_20181231155339.log is exist 
+select count(*) from logtable where logname = 'aaa60_20190101043600.log'
+the file : aaa60_20190101043600.log is exist 
+select count(*) from logtable where logname = 'aaa61_20190101163444.log'
+the file : aaa61_20190101163444.log is exist 

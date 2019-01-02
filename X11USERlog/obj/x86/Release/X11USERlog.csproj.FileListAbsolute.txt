@@ -1,0 +1,8 @@
+E:\work\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\bin\Release\X11USERlog.exe
+E:\work\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\bin\Release\X11USERlog.pdb
+E:\work\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\bin\Release\MySql.Data.dll
+E:\work\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\obj\x86\Release\X11USERlog.Form1.resources
+E:\work\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\obj\x86\Release\X11USERlog.Properties.Resources.resources
+E:\work\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\obj\x86\Release\X11USERlog.csproj.GenerateResource.Cache
+E:\work\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\obj\x86\Release\X11USERlog.exe
+E:\work\WorkSpace\C#\SDCMT\X11USERlog\X11USERlog\obj\x86\Release\X11USERlog.pdb
